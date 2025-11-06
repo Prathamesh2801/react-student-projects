@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main_container {
+  height: 100vh;
+  min-width: 350px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inner_container {
+  width: 50%;
+  min-width: 400px;
+  padding: 100px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+}
+
+.button {
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px;
+  color: white;
+}
