@@ -4,7 +4,7 @@ Switch branches to access different projects 👇
 
 | Project | Branch | Description |
 |----------|---------|-------------|
-| React Setup | `project1` | Basic React app using useState |
+| React Setup | `project1` | Basic React Setup + Intro |
 | React tailwindCSS Template | `project2` | React form + validation |
 
 
